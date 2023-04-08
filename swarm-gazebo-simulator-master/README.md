@@ -9,7 +9,7 @@ Prerequisites :
 
 To get started :
 -> Clone the repo as :
-  git clone https://github.com/Swarm-IITKgp/swarm-gazebo-simulator.git swarm_simulator
+  git clone https://github.com/KrAmitSingh197/swarm-drone/tree/main/swarm-gazebo-simulator-master.git
   
 -> To launch the world file :
   roslaunch swarm_simulator swarm.launch
